@@ -1,0 +1,10 @@
+POST http://localhost:8080/reverse
+Content-Type: text/plain
+
+abu
+
+### uppercase
+POST http://localhost:8080/upper
+Content-Type: text/plain
+
+abu
